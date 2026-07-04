@@ -1,1 +1,1 @@
-# stock
+Solar Stock System
